@@ -1,7 +1,7 @@
 
-# CV Generator
+# DAKK_ResumeBuilder
 
-CV Generator web application using Php and Bootstrap.
+DAKK_ResumeBuilder web application using Php and Bootstrap.
 
 
 
